@@ -1,4 +1,4 @@
-# OmniDomain — Domain-aware Chatbot
+# OmniDomain — AI Assistant Platform
 
 OmniDomain is a domain-aware chatbot platform that provides specialized AI assistants tailored to different topic areas (finance, legal, entertainment, psychology, technical, etc.). It pairs a FastAPI backend (AI routing, persistence, streaming) with a Next.js frontend chat UI to deliver responsive, domain-focused conversations.
 
